@@ -1,0 +1,21 @@
+#anaKutu{
+    margin-top: 3rem;
+    padding: 3rem 3rem;
+
+    border-top: 3rem;
+    border-bottom: 3rem;
+    border-left: 20rem;
+    border-right: 20rem;
+    border-color: transparent;
+    border-style: solid;
+    text-align: center;
+}
+
+#sonucKutu{
+    margin-top: 0%;
+    text-align: center;
+}
+
+#girisButtonu{
+    margin-top: 1rem;
+}
